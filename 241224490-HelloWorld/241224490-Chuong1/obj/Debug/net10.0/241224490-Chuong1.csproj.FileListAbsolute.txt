@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\bin\Debug\net10.0\241224490-Chuong1.exe
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\bin\Debug\net10.0\241224490-Chuong1.deps.json
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\bin\Debug\net10.0\241224490-Chuong1.runtimeconfig.json
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\bin\Debug\net10.0\241224490-Chuong1.dll
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\bin\Debug\net10.0\241224490-Chuong1.pdb
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\obj\Debug\net10.0\241224490-Chuong1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\obj\Debug\net10.0\241224490-Chuong1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\obj\Debug\net10.0\241224490-Chuong1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\obj\Debug\net10.0\241224490-Chuong1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\obj\Debug\net10.0\241224490-Chuong1.dll
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\obj\Debug\net10.0\refint\241224490-Chuong1.dll
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\obj\Debug\net10.0\241224490-Chuong1.pdb
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\obj\Debug\net10.0\241224490-Chuong1.genruntimeconfig.cache
+C:\Users\Admin\source\repos\241224490-Chuong1\241224490-Chuong1\obj\Debug\net10.0\ref\241224490-Chuong1.dll
